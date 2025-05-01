@@ -7,6 +7,5 @@ This transformation has not only streamlined their workflow but also minimized e
 
 Video demo of the agent: https://dai.ly/x9hfsa4
 
-![image](https://github.com/user-attachments/assets/690be904-22df-4c46-8106-5b11d7a6b282)
 
 
